@@ -1,8 +1,7 @@
 Le but de ce projet est de prédire le prix de location d’un Airbnb à partir d’un ensemble de caractéristiques.
-Une grosse partie du travail va d’être de convertir les caractéristiques textuelles en informations utilisable par un algo de machine learning. 
+Une grosse partie du travail a été de de convertir les caractéristiques textuelles en informations utilisable par un algo de machine learning. 
 
-Vous avez un exemple de fichier de rendu pour le projet (sample_prediction.csv) : ATTENTION vous devez prédire le logarithme du prix, si votre modèle output directement le prix, 
-Vous devez repasser le résultat au log avec de remplir le fichier de prédiction.
+Nous prédisons le logarithme du prix.
 
 
 'id' : Identifiant du logement
